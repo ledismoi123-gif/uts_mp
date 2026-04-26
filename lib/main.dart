@@ -296,6 +296,7 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
 }
 
 // ================= DASHBOARD =================
+
 class DashboardScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
